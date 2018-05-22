@@ -1,1 +1,1 @@
-# CP372-A2-StopAndWait
+# A2-StopAndWait
